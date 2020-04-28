@@ -1,0 +1,47 @@
+body{
+    box-sizing: border-box;
+    margin: 0% auto;
+    font-size: large;
+    text-align: center;
+    line-height: 1.5em;
+    background-color: bisque;
+}
+
+h1{
+    color: rgba(238, 14, 14, 0.856);
+    font-weight: bolder;
+}
+
+/* Images */
+.image{
+    border-radius: 50%;
+    border: 3px dotted rebeccapurple;
+    width: 200px;
+    height: 200px;
+}
+
+/* about */
+.about-us{
+    width: 50%;
+    margin: auto 25%;
+    text-align: center;
+}
+
+/* contact */
+.contact{
+    width: 50%;
+    margin: auto 25%;
+    text-align: center;
+}
+footer{
+    background-color: chocolate;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 0.03%;
+}
+
+input[type='text']{
+    width: 20%;
+    height: 25px;
+    margin-bottom: 1%;
+}
